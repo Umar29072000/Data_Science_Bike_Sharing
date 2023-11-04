@@ -28,6 +28,6 @@ streamlit run dashboard/streamlit.py
 ## Streamlit Dashboard Screenshot
 
 <img width="1280" alt="1" src="https://github.com/Umar29072000/Data_Science_Bike_Sharing/blob/12b2c5ba2c72605c8493a2bcb5f443768459f2a2/dashboard%20screenshot/1.png">
-<img width="1280" alt="2" src="https://github.com/yudhasaputra/Data-Analytics-Project-BikeSharingDataset/assets/34949406/fc409102-704f-4dbe-9604-92f98483897b">
-<img width="1280" alt="3" src="https://github.com/yudhasaputra/Data-Analytics-Project-BikeSharingDataset/assets/34949406/7eb98f0e-0a62-4143-a185-7bae653a5e57">
-<img width="1280" alt="4" src="https://github.com/yudhasaputra/Data-Analytics-Project-BikeSharingDataset/assets/34949406/20c22f4d-fc7b-4db0-b8f5-ff60f2f2fb15">
+<img width="1280" alt="2" src="https://github.com/Umar29072000/Data_Science_Bike_Sharing/blob/f5ac588060fb3f2e9f45035070647b23005cedbc/dashboard%20screenshot/2.png">
+<img width="1280" alt="3" src="https://github.com/Umar29072000/Data_Science_Bike_Sharing/blob/f5ac588060fb3f2e9f45035070647b23005cedbc/dashboard%20screenshot/3.png">
+<img width="1280" alt="4" src="https://github.com/Umar29072000/Data_Science_Bike_Sharing/blob/f5ac588060fb3f2e9f45035070647b23005cedbc/dashboard%20screenshot/4.png">
