@@ -98,7 +98,7 @@ weather_df = create_weather_df(main_hour_df)
 season_df = create_season_df(main_hour_df)
 season_weather_df = create_season_weather_df(main_hour_df)
 
-st.header(':bike: Bicycle Ride Dashboard :bike:')
+st.header(':bike: Bike Sharing Dashboard :bike:')
 
 # Membuat bagian Hourly Ride, menunjukan Ride secara time series
 st.subheader('Hourly Ride')
